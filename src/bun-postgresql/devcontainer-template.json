@@ -1,0 +1,11 @@
+{
+    "id": "bun-postgres",
+    "version": "0.0.0",
+    "name": "Bun & PostgreSQL",
+    "description": "Develop applications in Bun and PostgreSQL. Includes Bun in a container linked to a Postgres DB container",
+    "platforms": [
+        "Bun",
+        "TypeScript",
+        "PostgreSQL DB"
+    ]
+}
